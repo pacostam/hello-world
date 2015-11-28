@@ -1,2 +1,2 @@
 # hello-world
-My repository
+hello-world is a repository for showing the bare minimun of github and manage newer functions, etc.
